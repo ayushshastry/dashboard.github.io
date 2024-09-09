@@ -1,0 +1,31 @@
+
+.dashboard-container {
+    box-sizing: border-box;
+    padding: 10px;
+} 
+
+.chart-wrapper {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.chart-wrapper {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: xx-large;
+    padding: 10px;
+}
+
+h2 {
+    padding: 2px;
+    margin: 2px;
+}
